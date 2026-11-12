@@ -1,0 +1,41 @@
+CLIP 3 OF 3
+
+OUTPUT: A stickman animated video, approximately 10 seconds, vertical 9:16, 720p target, 24 FPS, synchronized audio. Polished 2D cel-shaded Vietnamese historical folk-legend cartoon.
+
+ERA: Legend of Thanh Giong, Phu Dong village, northern Vietnam, era of the sixth Hung King. Thatched-roof houses with earth walls, bamboo hedges, a banyan tree, green rice paddies, misty mountains in the distance. Treat the story as a folk legend illustration.
+
+SEGMENT SETTING: an open battlefield of trampled grass beside dense green bamboo groves under a blue sky, then a time cut to Soc Son mountain at golden sunset.
+
+CHARACTER: A 2D cartoon man with a round white head and a short, sturdy white neck growing naturally from his clothed shoulders and supporting his jaw. The white head and neck form one continuous filled silhouette. The lower jaw flows directly into the short white neck; the bottom of that neck enters the tunic neckline. The visible connection is white, with black outlines only along its two sides. Keep this white connection visible during walking, turns, tilts and camera cuts. Use balanced adult stickman proportions rather than a big-headed chibi: the complete standing figure is roughly four head-heights tall, the round head is visibly narrower than the clothed shoulder span, the torso is slightly longer than the head, and the thin black legs provide a natural lower-body length. The exposed neck is short, about one tenth of the head diameter tall. Thin black arms and legs, exactly two of each. Polished 2D cel-shaded historical cartoon, clean thick black outlines, softly shaded period clothing, and sunlit painterly surroundings.
+FACE: An appealing, expressive storybook-cartoon face on the round white head. Two solid black vertical oval eyes; character-specific eyebrows, nose and mouth defined in the cast card, not a universal template face. Subtle cheek shading gives the face warmth without realistic skin texture. Expressions react to the action while the eye shape, nose shape, face proportions and identity remain unchanged. Hair and facial hair, when present in the cast, have a few clearly shaped locks and soft cel shading, not flat featureless patches. Keep this readable cartoon richness, not a blank symbolic face, photorealism or detailed irises.
+PALMS: Each thin black wrist ends in one compact, solid black rounded oval palm with a subtle integrated thumb bump. Use the same palm-to-head proportion in both hands and all shots: total palm silhouette about 18% of head diameter long and 10% wide, including the thumb bump. It is visibly wider than the wrist, neither a wrist-tip dot nor an enlarged glove. No separate fingers, finger lines or white fill. The empty indicating gesture keeps this compact silhouette; change the arm angle instead of spreading or enlarging the palm.
+EXPOSED LIMBS: Every uncovered arm, forearm, wrist and shin is one slender solid black stroke. Face and short neck use white fill; the limbs use solid black strokes. Preserve the character proportions and costume colors throughout.
+
+CAST (repeat exactly):
+GIONG AS A GROWN WARRIOR: the same face as the child (same short thick black eyebrows, short shallow curved nose, solid black oval eyes, peach-shaped black hair tuft now tied with a bright red cloth headband), now a tall strong adult about four head-heights tall, broad shoulders. Dark iron-grey plate armor vest with thin warm-gold trim over an earth-brown tunic, brown cloth trousers wrapped at the shins, short black boots. Thin black stick forearms below the sleeves, compact black mitten palms continuous with the wrists.
+INVADER SOLDIERS (one uniform group, fictional and generic, not any modern ethnicity): soldiers in dark charcoal lamellar armor with simple round dark helmets and long wooden spears, same white heads and black stick limbs, simple surprised cartoon faces.
+IRON HORSE: a large horse made of dark steel-grey iron plates with warm-gold rivets, glowing orange eyes, breathes bright orange flame from its nostrils and mouth. IRON WHIP: one long dark iron rod-whip. BAMBOO: tall green bamboo clumps with leafy tops.
+
+PALETTE (ordinary colors only): rice-paddy green and bamboo green for the countryside, earthy brown for village life and clothing, iron grey for armor, horse and whip, flame orange for the horse's fire and heroic energy, soft sky blue by day turning to golden sunset gold at the end.
+
+COMPOSITION 9:16: stack action vertically with foreground/background depth, vertical reveals and tilt-up camera moves; keep the main character in the center third; leave the bottom fifth calm for later subtitles.
+
+FIRST FRAME (continues from the gallop): Giong on the iron horse charges in from the left toward the right where a line of invader soldiers stands with spears.
+
+Frequent visual events and clear physical actions, while preserving an identical character design, constant line weight, and strict temporal consistency.
+
+TIMED ACTION:
+[0-3s] Giong swings the iron whip in a wide arc; a wave of orange flame from the horse; invader soldiers tumble over backward comically and drop their spears (no blood, no injury shown).
+[3-7s] The iron whip snaps in two with a spark; Giong grabs a whole bamboo clump with both palms and pulls it out of the ground roots and all, then sweeps it like a giant broom; remaining invaders scatter and run off-screen to the right.
+[7-10s] Planned time cut to golden sunset on Soc Son mountain: Giong rides the iron horse up the mountain slope, and the horse leaps into the sky, climbing upward into the glowing golden clouds; camera tilts up following them until they become a small silhouette in the sunset.
+
+Audio voiceover only, strictly no speech bubbles, no dialogue boxes. Speak exactly this Vietnamese line once, without adding, omitting, paraphrasing, repeating, reordering, translating, captioning, subtitling or visually transcribing any word:
+"Roi gãy, Gióng nhổ tre quật tan giặc, rồi cưỡi ngựa bay về trời. Theo bạn, Gióng là người hay là thần?"
+
+VOICE: One off-screen adult male Vietnamese narrator throughout, speaking standard Northern Vietnamese (Hanoi accent) with correct Vietnamese tones on every syllable. Warm clean baritone, medium-low pitch, gentle chest resonance, no raspiness or breathiness. Calm folk-tale storytelling delivery, restrained pitch variation, steady unhurried speaking pace, and close, dry studio sound. Keep the same vocal timbre, register, accent, pace, and recording quality throughout. Emotional progression belongs to the visuals and music; do not change the narrator's voice or switch to character dialogue.
+
+MUSIC: continue the identical Vietnamese dan tranh zither and bamboo flute theme from clip 1, same tempo and key, with full bronze drums for the battle, then the drums drop away and the flute rises softly for the sky ascent. SFX: whip crack, flame roar, cartoon tumbling thuds at 0-3s, iron snap and bamboo roots ripping at 3-7s, rushing wind and a soft chime at 7-10s. Voice-first mix.
+
+FINAL FRAME: a tiny silhouette of the horse and rider among glowing golden sunset clouds above the mountain; hold calmly.
+
+NEGATIVE: NO VISIBLE TEXT, LETTERS, NUMBERS, SUBTITLES, LOGOS OR WATERMARKS (blank paper or abstract brush strokes only), NO SPEECH BUBBLES, NO BLOOD OR GORE, NO PHOTOREALISTIC FACES, NO 3D CGI, NO PAPER TEXTURE, NO EXTRA LIMBS, NO FUSED OR DUPLICATE HEADS, NO COSTUME CHANGES (except the planned child-to-warrior transformation), NO EXTRA CHARACTERS, NO INDIVIDUAL FINGERS, NO FINGER SEPARATIONS, NO WHITE HANDS OR GLOVES, NO FLOATING HEAD, NO BACKGROUND GAP BETWEEN HEAD AND NECKLINE, NO CHINESE OR JAPANESE ARCHITECTURE, NO ON-SCREEN CHARACTER LIP-SYNC.

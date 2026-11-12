@@ -1,0 +1,40 @@
+CLIP 1 OF 3
+
+OUTPUT: A stickman animated video, approximately 10 seconds, vertical 9:16, 720p target, 24 FPS, synchronized audio. Polished 2D cel-shaded Vietnamese historical folk-legend cartoon.
+
+ERA: Legend of Thanh Giong, Phu Dong village, northern Vietnam, era of the sixth Hung King. Thatched-roof houses with earth walls, bamboo hedges, a banyan tree, green rice paddies, misty mountains in the distance. Treat the story as a folk legend illustration.
+
+SEGMENT SETTING: inside and in front of a small thatched house in Phu Dong village by day; a bamboo-woven bed (chong tre) inside; the village gate and bamboo hedge visible through the open doorway.
+
+CHARACTER: A 2D cartoon man with a round white head and a short, sturdy white neck growing naturally from his clothed shoulders and supporting his jaw. The white head and neck form one continuous filled silhouette. The lower jaw flows directly into the short white neck; the bottom of that neck enters the tunic neckline. The visible connection is white, with black outlines only along its two sides. Keep this white connection visible during walking, turns, tilts and camera cuts. Use balanced adult stickman proportions rather than a big-headed chibi: the complete standing figure is roughly four head-heights tall, the round head is visibly narrower than the clothed shoulder span, the torso is slightly longer than the head, and the thin black legs provide a natural lower-body length. The exposed neck is short, about one tenth of the head diameter tall. Thin black arms and legs, exactly two of each. Polished 2D cel-shaded historical cartoon, clean thick black outlines, softly shaded period clothing, and sunlit painterly surroundings.
+FACE: An appealing, expressive storybook-cartoon face on the round white head. Two solid black vertical oval eyes; character-specific eyebrows, nose and mouth defined in the cast card, not a universal template face. Subtle cheek shading gives the face warmth without realistic skin texture. Expressions react to the action while the eye shape, nose shape, face proportions and identity remain unchanged. Hair and facial hair, when present in the cast, have a few clearly shaped locks and soft cel shading, not flat featureless patches. Keep this readable cartoon richness, not a blank symbolic face, photorealism or detailed irises.
+PALMS: Each thin black wrist ends in one compact, solid black rounded oval palm with a subtle integrated thumb bump. Use the same palm-to-head proportion in both hands and all shots: total palm silhouette about 18% of head diameter long and 10% wide, including the thumb bump. It is visibly wider than the wrist, neither a wrist-tip dot nor an enlarged glove. No separate fingers, finger lines or white fill. The empty indicating gesture keeps this compact silhouette; change the arm angle instead of spreading or enlarging the palm.
+EXPOSED LIMBS: Every uncovered arm, forearm, wrist and shin is one slender solid black stroke. Face and short neck use white fill; the limbs use solid black strokes. Preserve the character proportions and costume colors throughout.
+
+CAST (repeat exactly):
+GIONG AS A CHILD: a small three-year-old boy, the same drawing grammar but a smaller body about three head-heights tall. Round white head with a single small tuft of black hair on the front of the crown shaped like a peach (traditional Vietnamese child's topknot), the rest of the head bald and white. Short thick black eyebrows, one short shallow black curved nose, small mouth, solid black oval eyes. Short collarless earth-brown cotton tunic and loose brown knee-length trousers, barefoot; thin black stick shins and arms, compact black mitten palms continuous with the wrists.
+ROYAL ENVOY: an adult man with a thin black moustache, calm eyebrows, short curved nose, wearing a long dark-red court robe and a black turban-like khan xep hat; rides a light brown horse; holds one blank cream scroll with no writing.
+
+PALETTE (ordinary colors only): rice-paddy green and bamboo green for the countryside, earthy brown for village life and clothing, iron grey for armor, horse and whip, flame orange for the horse's fire and heroic energy, soft sky blue by day turning to golden sunset gold at the end.
+
+COMPOSITION 9:16: stack action vertically with foreground/background depth, vertical reveals and tilt-up camera moves; keep the main character in the center third; leave the bottom fifth calm for later subtitles.
+
+FIRST FRAME: the child Giong lies still on his back on the bamboo bed inside the dim thatched house, eyes open, expressionless, arms resting at his sides.
+
+Frequent visual events and clear physical actions, while preserving an identical character design, constant line weight, and strict temporal consistency.
+
+TIMED ACTION:
+[0-3s] Slow push-in on the silent child lying on the bamboo bed; sunlight through the doorway; he blinks but does not move.
+[3-7s] Cut to the village path outside: the royal envoy gallops through the bamboo village gate from left to right on his brown horse, raising the blank scroll high; dust puffs; villagers' silhouettes turn to look. Quick cut back inside: the child's head turns toward the doorway, eyebrows rising.
+[7-10s] The child sits bolt upright on the bed, eyes wide and determined, and points his right arm firmly out through the doorway toward the right; camera tilts up slightly as a warm orange light rim glows around him.
+
+Audio voiceover only, strictly no speech bubbles, no dialogue boxes. Speak exactly this Vietnamese line once, without adding, omitting, paraphrasing, repeating, reordering, translating, captioning, subtitling or visually transcribing any word:
+"Cậu bé ba tuổi chẳng nói, chẳng cười. Vậy mà khi giặc Ân kéo đến, câu đầu tiên cậu nói lại là xin đi đánh giặc."
+
+VOICE: One off-screen adult male Vietnamese narrator throughout, speaking standard Northern Vietnamese (Hanoi accent) with correct Vietnamese tones on every syllable. Warm clean baritone, medium-low pitch, gentle chest resonance, no raspiness or breathiness. Calm folk-tale storytelling delivery, restrained pitch variation, steady unhurried speaking pace, and close, dry studio sound. Keep the same vocal timbre, register, accent, pace, and recording quality throughout. Emotional progression belongs to the visuals and music; do not change the narrator's voice or switch to character dialogue.
+
+MUSIC: establish the theme: gentle Vietnamese dan tranh zither plucks and a soft bamboo flute melody, then a single deep bronze drum hit as the child sits up. SFX: horse hooves and envoy galloping at 3s, bamboo bed creak at 7s. Voice-first mix, music low under the narration.
+
+FINAL FRAME: the child sits upright on the bed pointing toward the bright doorway on the right.
+
+NEGATIVE: NO VISIBLE TEXT, LETTERS, NUMBERS, SUBTITLES, LOGOS OR WATERMARKS (blank paper or abstract brush strokes only), NO SPEECH BUBBLES, NO BLOOD OR GORE, NO PHOTOREALISTIC FACES, NO 3D CGI, NO PAPER TEXTURE, NO EXTRA LIMBS, NO FUSED OR DUPLICATE HEADS, NO COSTUME CHANGES (except the planned child-to-warrior transformation), NO EXTRA CHARACTERS, NO INDIVIDUAL FINGERS, NO FINGER SEPARATIONS, NO WHITE HANDS OR GLOVES, NO FLOATING HEAD, NO BACKGROUND GAP BETWEEN HEAD AND NECKLINE, NO CHINESE OR JAPANESE ARCHITECTURE, NO ON-SCREEN CHARACTER LIP-SYNC.
