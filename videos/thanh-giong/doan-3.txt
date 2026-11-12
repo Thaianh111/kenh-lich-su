@@ -1,6 +1,6 @@
 CLIP 3 OF 3
 
-OUTPUT: A stickman animated video, approximately 10 seconds, vertical 9:16, 720p target, 24 FPS, synchronized audio. Polished 2D cel-shaded Vietnamese historical folk-legend cartoon.
+OUTPUT: A stickman animated video, exactly 8 seconds, vertical 9:16, 720p target, 24 FPS, synchronized audio. Polished 2D cel-shaded Vietnamese historical folk-legend cartoon.
 
 ERA: Legend of Thanh Giong, Phu Dong village, northern Vietnam, era of the sixth Hung King. Thatched-roof houses with earth walls, bamboo hedges, a banyan tree, green rice paddies, misty mountains in the distance. Treat the story as a folk legend illustration.
 
@@ -25,16 +25,16 @@ FIRST FRAME (continues from the gallop): Giong on the iron horse charges in from
 Frequent visual events and clear physical actions, while preserving an identical character design, constant line weight, and strict temporal consistency.
 
 TIMED ACTION:
-[0-3s] Giong swings the iron whip in a wide arc; a wave of orange flame from the horse; invader soldiers tumble over backward comically and drop their spears (no blood, no injury shown).
-[3-7s] The iron whip snaps in two with a spark; Giong grabs a whole bamboo clump with both palms and pulls it out of the ground roots and all, then sweeps it like a giant broom; remaining invaders scatter and run off-screen to the right.
-[7-10s] Planned time cut to golden sunset on Soc Son mountain: Giong rides the iron horse up the mountain slope, and the horse leaps into the sky, climbing upward into the glowing golden clouds; camera tilts up following them until they become a small silhouette in the sunset.
+[0-2s] Giong swings the iron whip in a wide arc; a wave of orange flame from the horse; invader soldiers tumble over backward comically and drop their spears (no blood, no injury shown).
+[2-5s] The iron whip snaps in two with a spark; Giong grabs a whole bamboo clump with both palms and pulls it out of the ground roots and all, then sweeps it like a giant broom; remaining invaders scatter and run off-screen to the right.
+[5-8s] Planned time cut to golden sunset on Soc Son mountain: Giong rides the iron horse up the mountain slope, and the horse leaps into the sky, climbing upward into the glowing golden clouds; camera tilts up following them until they become a small silhouette in the sunset.
 
 Audio voiceover only, strictly no speech bubbles, no dialogue boxes. Speak exactly this Vietnamese line once, without adding, omitting, paraphrasing, repeating, reordering, translating, captioning, subtitling or visually transcribing any word:
-"Roi gãy, Gióng nhổ tre quật tan giặc, rồi cưỡi ngựa bay về trời. Theo bạn, Gióng là người hay là thần?"
+"Roi gãy, Gióng nhổ tre quật tan giặc, rồi bay về trời. Gióng là người hay thần?"
 
-VOICE: One off-screen adult male Vietnamese narrator throughout, speaking standard Northern Vietnamese (Hanoi accent) with correct Vietnamese tones on every syllable. Warm clean baritone, medium-low pitch, gentle chest resonance, no raspiness or breathiness. Calm folk-tale storytelling delivery, restrained pitch variation, steady unhurried speaking pace, and close, dry studio sound. Keep the same vocal timbre, register, accent, pace, and recording quality throughout. Emotional progression belongs to the visuals and music; do not change the narrator's voice or switch to character dialogue.
+VOICE: One off-screen adult male Vietnamese narrator throughout, speaking standard Northern Vietnamese (Hanoi accent) with correct Vietnamese tones on every syllable. Warm clean baritone, medium-low pitch, gentle chest resonance, no raspiness or breathiness. Calm but lively folk-tale storytelling delivery that fits the whole line within 8 seconds, restrained pitch variation, steady unhurried speaking pace, and close, dry studio sound. Keep the same vocal timbre, register, accent, pace, and recording quality throughout. Emotional progression belongs to the visuals and music; do not change the narrator's voice or switch to character dialogue.
 
-MUSIC: continue the identical Vietnamese dan tranh zither and bamboo flute theme from clip 1, same tempo and key, with full bronze drums for the battle, then the drums drop away and the flute rises softly for the sky ascent. SFX: whip crack, flame roar, cartoon tumbling thuds at 0-3s, iron snap and bamboo roots ripping at 3-7s, rushing wind and a soft chime at 7-10s. Voice-first mix.
+MUSIC: continue the identical Vietnamese dan tranh zither and bamboo flute theme from clip 1, same tempo and key, with full bronze drums for the battle, then the drums drop away and the flute rises softly for the sky ascent. SFX: whip crack, flame roar, cartoon tumbling thuds at 0-2s, iron snap and bamboo roots ripping at 2-5s, rushing wind and a soft chime at 5-8s. Voice-first mix.
 
 FINAL FRAME: a tiny silhouette of the horse and rider among glowing golden sunset clouds above the mountain; hold calmly.
 

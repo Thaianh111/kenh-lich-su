@@ -1,6 +1,6 @@
 CLIP 2 OF 3
 
-OUTPUT: A stickman animated video, approximately 10 seconds, vertical 9:16, 720p target, 24 FPS, synchronized audio. Polished 2D cel-shaded Vietnamese historical folk-legend cartoon.
+OUTPUT: A stickman animated video, exactly 8 seconds, vertical 9:16, 720p target, 24 FPS, synchronized audio. Polished 2D cel-shaded Vietnamese historical folk-legend cartoon.
 
 ERA: Legend of Thanh Giong, Phu Dong village, northern Vietnam, era of the sixth Hung King. Thatched-roof houses with earth walls, bamboo hedges, a banyan tree, green rice paddies, misty mountains in the distance. Treat the story as a folk legend illustration.
 
@@ -26,16 +26,16 @@ FIRST FRAME (continues from the child pointing at the doorway): villagers stream
 Frequent visual events and clear physical actions, while preserving an identical character design, constant line weight, and strict temporal consistency.
 
 TIMED ACTION:
-[0-3s] Villagers pour baskets of white rice into the huge steaming pot; the child eats bowl after bowl quickly with a cheerful face; empty bowls stack up beside him.
-[3-7s] The child stands and stretches both arms upward; camera tilts up as he grows rapidly in a smooth continuous growth (same face and hair tuft) until he is a tall adult warrior taller than the thatched roof; villagers step back in awe; a burst of warm orange light.
-[7-10s] The iron armor vest settles onto his body and the red headband ties around his hair tuft; the iron horse stamps beside him breathing orange flame; he grips the iron whip in his right palm and leaps onto the horse's back; the horse rears and gallops out of the village toward the right.
+[0-2s] Villagers pour baskets of white rice into the huge steaming pot; the child eats bowl after bowl quickly with a cheerful face; empty bowls stack up beside him.
+[2-5s] The child stands and stretches both arms upward; camera tilts up as he grows rapidly in a smooth continuous growth (same face and hair tuft) until he is a tall adult warrior taller than the thatched roof; villagers step back in awe; a burst of warm orange light.
+[5-8s] The iron armor vest settles onto his body and the red headband ties around his hair tuft; the iron horse stamps beside him breathing orange flame; he grips the iron whip in his right palm and leaps onto the horse's back; the horse rears and gallops out of the village toward the right.
 
 Audio voiceover only, strictly no speech bubbles, no dialogue boxes. Speak exactly this Vietnamese line once, without adding, omitting, paraphrasing, repeating, reordering, translating, captioning, subtitling or visually transcribing any word:
-"Cả làng góp gạo nuôi cậu. Cậu lớn nhanh như thổi, vươn vai thành tráng sĩ, mặc giáp sắt, cưỡi ngựa sắt phun lửa."
+"Cả làng góp gạo nuôi cậu. Gióng vươn vai thành tráng sĩ, cưỡi ngựa sắt phun lửa."
 
-VOICE: One off-screen adult male Vietnamese narrator throughout, speaking standard Northern Vietnamese (Hanoi accent) with correct Vietnamese tones on every syllable. Warm clean baritone, medium-low pitch, gentle chest resonance, no raspiness or breathiness. Calm folk-tale storytelling delivery, restrained pitch variation, steady unhurried speaking pace, and close, dry studio sound. Keep the same vocal timbre, register, accent, pace, and recording quality throughout. Emotional progression belongs to the visuals and music; do not change the narrator's voice or switch to character dialogue.
+VOICE: One off-screen adult male Vietnamese narrator throughout, speaking standard Northern Vietnamese (Hanoi accent) with correct Vietnamese tones on every syllable. Warm clean baritone, medium-low pitch, gentle chest resonance, no raspiness or breathiness. Calm but lively folk-tale storytelling delivery that fits the whole line within 8 seconds, restrained pitch variation, steady unhurried speaking pace, and close, dry studio sound. Keep the same vocal timbre, register, accent, pace, and recording quality throughout. Emotional progression belongs to the visuals and music; do not change the narrator's voice or switch to character dialogue.
 
-MUSIC: continue the identical Vietnamese dan tranh zither and bamboo flute theme from clip 1, same tempo and key, now joined by building bronze drums. SFX: rice pouring, bowls clinking at 0-3s, a rising whoosh during the growth at 3-7s, metal armor clank, horse neigh and roaring flame at 7-10s. Voice-first mix.
+MUSIC: continue the identical Vietnamese dan tranh zither and bamboo flute theme from clip 1, same tempo and key, now joined by building bronze drums. SFX: rice pouring, bowls clinking at 0-2s, a rising whoosh during the growth at 2-5s, metal armor clank, horse neigh and roaring flame at 5-8s. Voice-first mix.
 
 FINAL FRAME: the warrior Giong on the flame-breathing iron horse gallops right, out of the village gate, iron whip raised.
 

@@ -1,4 +1,4 @@
-# Thánh Gióng — 30s, 9:16, A5 Historical Cartoon
+# Thánh Gióng — 24s (3 đoạn × 8s, theo giới hạn Flow), 9:16, A5 Historical Cartoon
 
 ## Cách làm
 1. (Nên làm) Tạo trước hình 3 mặt (trước/bên/sau) của Gióng lúc nhỏ và Gióng tráng sĩ, đính kèm mỗi lần tạo clip.
@@ -17,9 +17,9 @@
 - Nếu giọng tiếng Việt sai dấu: tắt tiếng clip, lồng giọng đọc lời dưới đây trong CapCut.
 
 ## Lời đọc
-1. Cậu bé ba tuổi chẳng nói, chẳng cười. Vậy mà khi giặc Ân kéo đến, câu đầu tiên cậu nói lại là xin đi đánh giặc.
-2. Cả làng góp gạo nuôi cậu. Cậu lớn nhanh như thổi, vươn vai thành tráng sĩ, mặc giáp sắt, cưỡi ngựa sắt phun lửa.
-3. Roi gãy, Gióng nhổ tre quật tan giặc, rồi cưỡi ngựa bay về trời. Theo bạn, Gióng là người hay là thần?
+1. Cậu bé ba tuổi chẳng nói chẳng cười. Giặc Ân đến, câu đầu tiên cậu nói là: xin đi đánh giặc!
+2. Cả làng góp gạo nuôi cậu. Gióng vươn vai thành tráng sĩ, cưỡi ngựa sắt phun lửa.
+3. Roi gãy, Gióng nhổ tre quật tan giặc, rồi bay về trời. Gióng là người hay thần?
 
 ## Chữ chèn thêm khi dựng (tùy chọn)
 - Đoạn 1: "THÁNH GIÓNG" · Đoạn 3: "Người hay Thần?"

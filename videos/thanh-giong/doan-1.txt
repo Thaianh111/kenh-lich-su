@@ -1,6 +1,6 @@
 CLIP 1 OF 3
 
-OUTPUT: A stickman animated video, approximately 10 seconds, vertical 9:16, 720p target, 24 FPS, synchronized audio. Polished 2D cel-shaded Vietnamese historical folk-legend cartoon.
+OUTPUT: A stickman animated video, exactly 8 seconds, vertical 9:16, 720p target, 24 FPS, synchronized audio. Polished 2D cel-shaded Vietnamese historical folk-legend cartoon.
 
 ERA: Legend of Thanh Giong, Phu Dong village, northern Vietnam, era of the sixth Hung King. Thatched-roof houses with earth walls, bamboo hedges, a banyan tree, green rice paddies, misty mountains in the distance. Treat the story as a folk legend illustration.
 
@@ -24,16 +24,16 @@ FIRST FRAME: the child Giong lies still on his back on the bamboo bed inside the
 Frequent visual events and clear physical actions, while preserving an identical character design, constant line weight, and strict temporal consistency.
 
 TIMED ACTION:
-[0-3s] Slow push-in on the silent child lying on the bamboo bed; sunlight through the doorway; he blinks but does not move.
-[3-7s] Cut to the village path outside: the royal envoy gallops through the bamboo village gate from left to right on his brown horse, raising the blank scroll high; dust puffs; villagers' silhouettes turn to look. Quick cut back inside: the child's head turns toward the doorway, eyebrows rising.
-[7-10s] The child sits bolt upright on the bed, eyes wide and determined, and points his right arm firmly out through the doorway toward the right; camera tilts up slightly as a warm orange light rim glows around him.
+[0-2s] Slow push-in on the silent child lying on the bamboo bed; sunlight through the doorway; he blinks but does not move.
+[2-5s] Cut to the village path outside: the royal envoy gallops through the bamboo village gate from left to right on his brown horse, raising the blank scroll high; dust puffs; villagers' silhouettes turn to look. Quick cut back inside: the child's head turns toward the doorway, eyebrows rising.
+[5-8s] The child sits bolt upright on the bed, eyes wide and determined, and points his right arm firmly out through the doorway toward the right; camera tilts up slightly as a warm orange light rim glows around him.
 
 Audio voiceover only, strictly no speech bubbles, no dialogue boxes. Speak exactly this Vietnamese line once, without adding, omitting, paraphrasing, repeating, reordering, translating, captioning, subtitling or visually transcribing any word:
-"Cậu bé ba tuổi chẳng nói, chẳng cười. Vậy mà khi giặc Ân kéo đến, câu đầu tiên cậu nói lại là xin đi đánh giặc."
+"Cậu bé ba tuổi chẳng nói chẳng cười. Giặc Ân đến, câu đầu tiên cậu nói là: xin đi đánh giặc!"
 
-VOICE: One off-screen adult male Vietnamese narrator throughout, speaking standard Northern Vietnamese (Hanoi accent) with correct Vietnamese tones on every syllable. Warm clean baritone, medium-low pitch, gentle chest resonance, no raspiness or breathiness. Calm folk-tale storytelling delivery, restrained pitch variation, steady unhurried speaking pace, and close, dry studio sound. Keep the same vocal timbre, register, accent, pace, and recording quality throughout. Emotional progression belongs to the visuals and music; do not change the narrator's voice or switch to character dialogue.
+VOICE: One off-screen adult male Vietnamese narrator throughout, speaking standard Northern Vietnamese (Hanoi accent) with correct Vietnamese tones on every syllable. Warm clean baritone, medium-low pitch, gentle chest resonance, no raspiness or breathiness. Calm but lively folk-tale storytelling delivery that fits the whole line within 8 seconds, restrained pitch variation, steady unhurried speaking pace, and close, dry studio sound. Keep the same vocal timbre, register, accent, pace, and recording quality throughout. Emotional progression belongs to the visuals and music; do not change the narrator's voice or switch to character dialogue.
 
-MUSIC: establish the theme: gentle Vietnamese dan tranh zither plucks and a soft bamboo flute melody, then a single deep bronze drum hit as the child sits up. SFX: horse hooves and envoy galloping at 3s, bamboo bed creak at 7s. Voice-first mix, music low under the narration.
+MUSIC: establish the theme: gentle Vietnamese dan tranh zither plucks and a soft bamboo flute melody, then a single deep bronze drum hit as the child sits up. SFX: horse hooves and envoy galloping at 2s, bamboo bed creak at 5s. Voice-first mix, music low under the narration.
 
 FINAL FRAME: the child sits upright on the bed pointing toward the bright doorway on the right.
 
